@@ -1,0 +1,2 @@
+# Investment-Analysis-and-Portfolio-Building-Project
+Objective: The goal of this project is to construct an optimized investment portfolio by analyzing companies based on various attributes, including valuation, total funding, growth percentage, and other financial indicators. The portfolio will be built by selecting companies that align with the investor's risk tolerance and financial objectives.
